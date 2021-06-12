@@ -1,4 +1,4 @@
-package edu.escuelaing.arsw.app.HTTP;
+package edu.escuelaing.arsw.app.URLService;
 
 import java.io.BufferedReader;
 import java.io.IOException;

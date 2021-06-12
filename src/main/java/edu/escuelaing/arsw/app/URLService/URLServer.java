@@ -1,4 +1,4 @@
-package edu.escuelaing.arsw.app.HTTP;
+package edu.escuelaing.arsw.app.URLService;
 
 import java.net.MalformedURLException;
 import java.net.URL;
